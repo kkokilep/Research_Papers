@@ -18,4 +18,5 @@
 
 [Randomized trial of treat and extend ranibizumab with and without navigated laser for diabetic macular edema: Trex-dme 1 year outcomes](https://www.sciencedirect.com/science/article/pii/S0161642016313537)
 
-
+## 2015
+[Prospective Trial of Treat-and-Extend versus Monthly Dosing for Neovascular Age-Related Macular Degeneration: TREX-AMD 1-Year Results](https://www.sciencedirect.com/science/article/pii/S0161642015007861)
