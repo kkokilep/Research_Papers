@@ -1,6 +1,9 @@
 # Papers related to study of eye diseases and eye disorders
 
 
+## 2022
+[Efficacy, durability, and safety of intravitreal faricimab up to every 16 weeks for neovascular age-related macular degeneration (TENAYA and LUCERNE): two randomised, double-masked, phase 3, non-inferiority trials](https://www.sciencedirect.com/science/article/pii/S0140673622000101)
+
 ## 2021
 
 [Long-term outcomes of treat-and-extend ranibizumab with and without navigated laser for diabetic macular oedema: TREX-DME 3-year results](https://bjo.bmj.com/content/105/2/253?fbclid=IwAR0zmLJRrgysLAoaI-J62aTxvot2-DhW_6zB5Tf9a4errdoYHMrawA-kQ8Y)
