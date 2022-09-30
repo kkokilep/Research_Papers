@@ -6,7 +6,7 @@
 
 # 2020 
 
-[Improved baselines with momentum contrastive learning](https://arxiv.org/pdf/2003.04297.pdf))
+[Improved baselines with momentum contrastive learning](https://arxiv.org/pdf/2003.04297.pdf)
 
 [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j.html)
 
