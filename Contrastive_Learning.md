@@ -4,6 +4,8 @@
 
 [Prototypical contrastive learning of unsupervised representations](https://arxiv.org/pdf/2005.04966.pdf)
 
+[Active Learning by Acquiring Contrastive Examples](https://arxiv.org/abs/2109.03764)
+
 # 2020 
 
 [Improved baselines with momentum contrastive learning](https://arxiv.org/pdf/2003.04297.pdf)
