@@ -10,7 +10,41 @@
 
 [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j.html)
 
+[What makes for good views for contrastive learning](https://arxiv.org/abs/2005.10243v1)
+
+[CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136v2)
+
+[Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362v1)
+
+[Clustering based Contrastive Learning for Improving Face Representations](https://arxiv.org/abs/2004.02195v1)
+
 # 2019
+
+[Unsupervised Scene Adaptation with Memory Regularization in vivo](https://arxiv.org/abs/1912.11164)
+ 
+[Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
+ 
+[Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1908.05832v1)
+ 
+[MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+ 
+[Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
+
+[Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/abs/1906.02940)
+ 
+[Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
+ 
+[Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355)
+ 
+[Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
+ 
+[Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
+ 
+[Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://arxiv.org/abs/1904.03436)
+ 
+[Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)
+ 
+[A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/abs/1902.09229)
 
 # 2018
 
