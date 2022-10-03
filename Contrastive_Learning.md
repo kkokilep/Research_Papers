@@ -10,10 +10,15 @@
 
 [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j.html)
 
+# 2019
 
 # 2018
 
+[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
 
+[Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+
+[Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978)
 
 # 2017 and older
 
