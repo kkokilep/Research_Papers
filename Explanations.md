@@ -9,6 +9,8 @@
 
 [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf)
 
+[Causal inference and counterfactual prediction in machine learning for actionable healthcare](https://livrepository.liverpool.ac.uk/3103363/1/causal_ai_in_healthcare_final.pdf)
+
 ## 2014
 [Transportability from Multiple Environments with Limited Experiments: Completeness Results](https://proceedings.neurips.cc/paper/2014/file/69adc1e107f7f7d035d7baf04342e1ca-Paper.pdf)
 
