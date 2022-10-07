@@ -2,6 +2,8 @@
 
 # 2021
 
+[Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
+
 [Prototypical contrastive learning of unsupervised representations](https://arxiv.org/pdf/2005.04966.pdf)
 
 [Active Learning by Acquiring Contrastive Examples](https://arxiv.org/abs/2109.03764)
