@@ -10,6 +10,8 @@
 
 # 2020 
 
+[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566.pdf)
+
 [Hard negative mixing for contrastive learning](https://proceedings.neurips.cc/paper/2020/hash/f7cade80b7cc92b991cf4d2806d6bd78-Abstract.html)
 
 [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
