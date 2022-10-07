@@ -10,6 +10,8 @@
 
 # 2020 
 
+[Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+
 [Improved baselines with momentum contrastive learning](https://arxiv.org/pdf/2003.04297.pdf)
 
 [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j.html)
