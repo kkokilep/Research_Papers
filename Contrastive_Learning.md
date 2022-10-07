@@ -10,6 +10,8 @@
 
 # 2020 
 
+[Hard negative mixing for contrastive learning](https://proceedings.neurips.cc/paper/2020/hash/f7cade80b7cc92b991cf4d2806d6bd78-Abstract.html)
+
 [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
 
 [Improved baselines with momentum contrastive learning](https://arxiv.org/pdf/2003.04297.pdf)
