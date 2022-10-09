@@ -7,6 +7,8 @@
 
 ## 2020
 
+[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf)
+
 [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/pdf/2010.10596.pdf)
 
 [Causal inference and counterfactual prediction in machine learning for actionable healthcare](https://livrepository.liverpool.ac.uk/3103363/1/causal_ai_in_healthcare_final.pdf)
