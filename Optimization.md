@@ -7,5 +7,7 @@
 ## 2019
 [Adagrad—an optimizer for stochastic gradient descent](http://ijics.com/gallery/92-may-1260.pdf)
 
+[A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
+
 ## 2012
 [Online learning and online convex optimization](https://www.nowpublishers.com/article/Details/MAL-018)
