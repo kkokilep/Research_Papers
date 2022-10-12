@@ -23,6 +23,8 @@
 
 [Hyperbolic neural networks](https://proceedings.neurips.cc/paper/2018/file/dbab2adc8f9d078009ee3fa810bea142-Paper.pdf)
 
+[Distortion-aware CNNs for Spherical Images](https://www.ijcai.org/proceedings/2018/0167.pdf)
+
 ## 2017
 [Deformable Convolutional Networks](https://openaccess.thecvf.com/content_iccv_2017/html/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.html)
 
