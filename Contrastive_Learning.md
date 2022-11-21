@@ -1,5 +1,9 @@
 ## Papers related to the machine learning self-supervised algorithm known as contrastive learning
 
+✔️ = Super Useful
+✅ = Somewhat Useful
+🤷‍♂️ = Not Useful
+
 # 2022
 
 :heavy_check_mark:[Boosting Contrastive Self-Supervised Learning With False Negative Cancellation](https://openaccess.thecvf.com/content/WACV2022/html/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.html)
