@@ -113,6 +113,8 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 # 2020 
 
+[Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](http://proceedings.mlr.press/v119/wang20k.html)
+
 [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/pdf/2006.07529.pdf)
 
 [OBoW: Online Bag-of-Visual-Words Generation for Self-Supervised Learning](https://arxiv.org/pdf/2012.11552.pdf)
