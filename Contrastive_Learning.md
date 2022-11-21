@@ -165,7 +165,7 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 [On Mutual Information in Contrastive Learning for Visual Representations](https://arxiv.org/pdf/2005.13149v2.pdf)
 
-[Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+:heavy_check_mark: [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
 
 [Improved baselines with momentum contrastive learning](https://arxiv.org/pdf/2003.04297.pdf)
 
