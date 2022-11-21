@@ -65,7 +65,7 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 [Revisiting Contrastive Methods for Unsupervised Learning of Visual Representations](https://papers.nips.cc/paper/2021/file/8757150decbd89b0f5442ca3db4d0e0e-Paper.pdf)
 
-[DetCo: Unsupervised Contrastive Learning for Object Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_DetCo_Unsupervised_Contrastive_Learning_for_Object_Detection_ICCV_2021_paper.pdf)
+:heavy_check_mark: [DetCo: Unsupervised Contrastive Learning for Object Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_DetCo_Unsupervised_Contrastive_Learning_for_Object_Detection_ICCV_2021_paper.pdf)
 
 [Contrastive Active Inference](https://papers.nips.cc/paper/2021/file/73c730319cf839f143bf40954448ce39-Paper.pdf)
 
