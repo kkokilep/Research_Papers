@@ -13,5 +13,9 @@
 
 [A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
 
+## 2015
+
+[On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs](https://proceedings.neurips.cc/paper/2015/file/ab233b682ec355648e7891e66c54191b-Paper.pdf)
+
 ## 2012
 [Online learning and online convex optimization](https://www.nowpublishers.com/article/Details/MAL-018)
