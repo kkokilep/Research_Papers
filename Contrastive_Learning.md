@@ -10,6 +10,41 @@
 
 # 2021
 
+[InfoGCL: Information-Aware Graph Contrastive Learning](https://papers.nips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
+
+[Local plasticity rules can learn deep representations using self-supervised contrastive predictions](https://papers.nips.cc/paper/2021/file/feade1d2047977cd0cefdafc40175a99-Paper.pdf)
+
+[Provable Representation Learning for Imitation
+with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3474e495e7b6d5f9f575b2d7ec4-Paper.pdf)
+
+[Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://papers.nips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf)
+
+[On Contrastive Representations of Stochastic Processes](https://papers.nips.cc/paper/2021/file/f19c44d068fecac1d6d13a80df4f8e96-Paper.pdf)
+
+[Unbiased Classification Through Bias-Contrastive and Bias-Balanced Learning](https://papers.nips.cc/paper/2021/file/de8aa43e5d5fa8536cf23e54244476fa-Paper.pdf)
+
+[Intermediate Layers Matter in Momentum Contrastive Self Supervised Learning](https://papers.nips.cc/paper/2021/hash/c9f06258da6455f5bf50c5b9260efeff-Abstract.html)
+
+[Aligning Pretraining for Detection via Object-Level Contrastive Learning](https://papers.nips.cc/paper/2021/file/bf5cd8b2509011b9502a72296edc14a0-Paper.pdf)
+
+[When Does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?](https://papers.nips.cc/paper/2021/file/b36ed8a07e3cd80ee37138524690eca1-Paper.pdf)
+
+[Task-Adaptive Neural Network Search with Meta-Contrastive Learning](https://papers.nips.cc/paper/2021/file/b20bb95ab626d93fd976af958fbc61ba-Paper.pdf)
+
+[Supercharging Imbalanced Data Learning With Energy-based Contrastive Representation Transfer](https://papers.nips.cc/paper/2021/file/b151ce4935a3c2807e1dd9963eda16d8-Paper.pdf)
+
+[Teaching an Active Learner with Contrastive Examples](https://papers.nips.cc/paper/2021/file/958adb57686c2fdec5796398de5f317a-Paper.pdf)
+
+[Revisiting Contrastive Methods for Unsupervised Learning of Visual Representations](ttps://papers.nips.cc/paper/2021/file/8757150decbd89b0f5442ca3db4d0e0e-Paper.pdf)
+
+[Contrastive Active Inference](https://papers.nips.cc/paper/2021/file/73c730319cf839f143bf40954448ce39-Paper.pdf)
+
+[Intriguing Properties of Contrastive Losses](https://papers.nips.cc/paper/2021/file/628f16b29939d1b060af49f66ae0f7f8-Paper.pdf)
+
+[Inverse Problems Leveraging Pre-trained Contrastive Representations](https://papers.nips.cc/paper/2021/file/498f940d9b933c529b06aa96d18f7eda-Paper.pdf)
+
+[Can contrastive learning avoid shortcut solutions?](https://papers.nips.cc/paper/2021/file/27934a1f19d678a1377c257b9a780e80-Paper.pdf)
+
 [Learning Transferable Visual Models From Natural Language Supervision](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 
 [Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images](https://arxiv.org/pdf/2103.03423.pdf)
