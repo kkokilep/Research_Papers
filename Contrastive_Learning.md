@@ -42,6 +42,8 @@
 
 # 2021
 
+✔️[Learning with Spectral Contrastive Loss](https://proceedings.neurips.cc/paper/2021/file/27debb435021eb68b3965290b5e24c49-Paper.pdf)
+
 [InfoGCL: Information-Aware Graph Contrastive Learning](https://papers.nips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
 
 [Local plasticity rules can learn deep representations using self-supervised contrastive predictions](https://papers.nips.cc/paper/2021/file/feade1d2047977cd0cefdafc40175a99-Paper.pdf)
