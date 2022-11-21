@@ -115,6 +115,8 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 # 2020 
 
+[SELF-SUPERVISED LEARNING FROM A MULTI-VIEW PERSPECTIVE](https://arxiv.org/pdf/2006.05576.pdf)
+
 [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](http://proceedings.mlr.press/v119/wang20k.html)
 
 [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/pdf/2006.07529.pdf)
