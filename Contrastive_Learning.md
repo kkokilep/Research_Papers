@@ -8,7 +8,7 @@
 
 :white_check_mark:[Noise Is Also Useful: Negative Correlation-Steered Latent Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Noise_Is_Also_Useful_Negative_Correlation-Steered_Latent_Contrastive_Learning_CVPR_2022_paper.html)
 
-[Frequency-Aware Contrastive Learning for Neural Machine Translation](https://ojs.aaai.org/index.php/AAAI/article/view/21426)
+:man_shrugging:[Frequency-Aware Contrastive Learning for Neural Machine Translation](https://ojs.aaai.org/index.php/AAAI/article/view/21426)
 
 [Understanding Contrastive Learning Requires Incorporating Inductive Biases](https://arxiv.org/pdf/2202.14037.pdf)
 
