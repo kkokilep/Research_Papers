@@ -44,6 +44,8 @@
 
 ✔️[Learning with Spectral Contrastive Loss](https://proceedings.neurips.cc/paper/2021/file/27debb435021eb68b3965290b5e24c49-Paper.pdf)
 
+✅[Utilizing Expert Features for Contrastive Learning of Time-Series Representations](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Parametric_Contrastive_Learning_ICCV_2021_paper.pdf)
+
 :heavy_check_mark:[MICE: MIXTURE OF CONTRASTIVE EXPERTS FOR UNSUPERVISED IMAGE CLUSTERING](https://openreview.net/pdf?id=gV3wdEOGy_V)
 
 [InfoGCL: Information-Aware Graph Contrastive Learning](https://papers.nips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
