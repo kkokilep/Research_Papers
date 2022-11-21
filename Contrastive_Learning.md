@@ -4,7 +4,7 @@
 
 :heavy_check_mark:[Boosting Contrastive Self-Supervised Learning With False Negative Cancellation](https://openaccess.thecvf.com/content/WACV2022/html/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.html)
 
-[INCREMENTAL FALSE NEGATIVE DETECTION FOR CONTRASTIVE LEARNING](https://arxiv.org/pdf/2106.03719.pdf)
+:heavy_check_mark:[INCREMENTAL FALSE NEGATIVE DETECTION FOR CONTRASTIVE LEARNING](https://arxiv.org/pdf/2106.03719.pdf)
 
 [Noise Is Also Useful: Negative Correlation-Steered Latent Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Noise_Is_Also_Useful_Negative_Correlation-Steered_Latent_Contrastive_Learning_CVPR_2022_paper.html)
 
