@@ -2,6 +2,34 @@
 
 # 2022
 
+[Boosting Contrastive Self-Supervised Learning With False Negative Cancellation](https://openaccess.thecvf.com/content/WACV2022/html/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.html)
+
+[INCREMENTAL FALSE NEGATIVE DETECTION FOR CONTRASTIVE LEARNING](https://arxiv.org/pdf/2106.03719.pdf)
+
+[Noise Is Also Useful: Negative Correlation-Steered Latent Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Noise_Is_Also_Useful_Negative_Correlation-Steered_Latent_Contrastive_Learning_CVPR_2022_paper.html)
+
+[Frequency-Aware Contrastive Learning for Neural Machine Translation](https://ojs.aaai.org/index.php/AAAI/article/view/21426)
+
+[Understanding Contrastive Learning Requires Incorporating Inductive Biases](https://arxiv.org/pdf/2202.14037.pdf)
+
+[Contrasting the landscape of contrastive and non-contrastive learning](https://arxiv.org/pdf/2203.15702.pdf)
+
+[Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.html)
+
+[Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Dual_Temperature_Helps_Contrastive_Learning_Without_Many_Negative_Samples_Towards_CVPR_2022_paper.html)
+
+[CONTRASTIVE LEARNING CAN FIND AN OPTIMAL BASIS FOR APPROXIMATELY VIEW-INVARIANT FUNCTIONS](https://arxiv.org/pdf/2210.01883.pdf)
+
+[Mutual Contrastive Learning for Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20211)
+
+[Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
+
+[Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation](https://proceedings.mlr.press/v162/shen22d.html)
+
+[Rethinking Minimal Sufficient Representation in Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.html)
+
+[Decoupled Contrastive Learning](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_38)
+
 [Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](https://arxiv.org/pdf/2203.12121.pdf)
 
 [Fair Contrastive Learning for Facial Attribute Classification](https://arxiv.org/pdf/2203.16209.pdf)
