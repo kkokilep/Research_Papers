@@ -53,7 +53,7 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 [Intermediate Layers Matter in Momentum Contrastive Self Supervised Learning](https://papers.nips.cc/paper/2021/hash/c9f06258da6455f5bf50c5b9260efeff-Abstract.html)
 
--[x] [Aligning Pretraining for Detection via Object-Level Contrastive Learning](https://papers.nips.cc/paper/2021/file/bf5cd8b2509011b9502a72296edc14a0-Paper.pdf)
+- [x] [Aligning Pretraining for Detection via Object-Level Contrastive Learning](https://papers.nips.cc/paper/2021/file/bf5cd8b2509011b9502a72296edc14a0-Paper.pdf)
 
 [When Does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?](https://papers.nips.cc/paper/2021/file/b36ed8a07e3cd80ee37138524690eca1-Paper.pdf)
 
