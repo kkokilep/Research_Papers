@@ -211,7 +211,7 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
  
 [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)
  
-[A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/abs/1902.09229)
+✔️[A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/abs/1902.09229)
 
 # 2018
 
