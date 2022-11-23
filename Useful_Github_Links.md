@@ -1,4 +1,6 @@
 
+[MNIST and Contextual Bandits](https://github.com/Ushk/MNist_ContextualBandit)
+
 [Study NeuralUCB and regret analysis for contextual bandit with neural decision](https://github.com/sauxpa/neural_exploration)
 
 [Supervised Contrastive Learning](https://github.com/HobbitLong/SupContrast)
