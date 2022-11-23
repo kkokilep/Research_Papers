@@ -127,6 +127,7 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 # 2020 
 
+✔️:[Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
 [SELF-SUPERVISED LEARNING FROM A MULTI-VIEW PERSPECTIVE](https://arxiv.org/pdf/2006.05576.pdf)
 
 [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](http://proceedings.mlr.press/v119/wang20k.html)
