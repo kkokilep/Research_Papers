@@ -12,6 +12,10 @@
 
 [Optimization problems for machine learning: A survey](https://www.sciencedirect.com/science/article/pii/S037722172030758X)
 
+## 2020
+
+[Self-Supervised Contextual Bandits in Computer Vision](https://arxiv.org/pdf/2003.08485.pdf)
+
 ## 2019
 [Adagrad—an optimizer for stochastic gradient descent](http://ijics.com/gallery/92-may-1260.pdf)
 
