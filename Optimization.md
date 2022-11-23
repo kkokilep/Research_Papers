@@ -29,5 +29,9 @@
 
 [Collective Noise Contrastive Estimation for Policy Transfer Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/12004)
 
+## 2014
+
+[Contextual Bandit for Active Learning: Active Thompson Sampling](https://hal.archives-ouvertes.fr/file/index/docid/1069802/filename/Contextual_Bandit_for_Active_Learning.pdf)
+
 ## 2012
 [Online learning and online convex optimization](https://www.nowpublishers.com/article/Details/MAL-018)
