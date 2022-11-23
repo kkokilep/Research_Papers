@@ -50,6 +50,9 @@
 
 ✅[Neighborhood Contrastive Learning Applied to Online Patient Monitoring](http://proceedings.mlr.press/v139/yeche21a/yeche21a.pdf)
 
+
+✔️[CONTRASTIVE LEARNING WITH HARD NEGATIVE SAMPLES](https://arxiv.org/pdf/2010.04592.pdf)
+
 [InfoGCL: Information-Aware Graph Contrastive Learning](https://papers.nips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
 
 [Local plasticity rules can learn deep representations using self-supervised contrastive predictions](https://papers.nips.cc/paper/2021/file/feade1d2047977cd0cefdafc40175a99-Paper.pdf)
