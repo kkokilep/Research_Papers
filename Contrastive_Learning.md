@@ -134,8 +134,10 @@ with Contrastive Fourier Features](https://papers.nips.cc/paper/2021/file/fd00d3
 
 # 2020 
 
-✔️:[Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
+✔️[Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
 [SELF-SUPERVISED LEARNING FROM A MULTI-VIEW PERSPECTIVE](https://arxiv.org/pdf/2006.05576.pdf)
+
+✔️[Kinematic state abstraction and provably efficient richobservation reinforcement learning](http://proceedings.mlr.press/v119/misra20a/misra20a.pdf)
 
 [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](http://proceedings.mlr.press/v119/wang20k.html)
 
