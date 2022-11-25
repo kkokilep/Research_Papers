@@ -6,6 +6,8 @@
 
 # 2022
 
+✔️[Making Linear MDPs Practical via Contrastive Representation Learning](https://proceedings.mlr.press/v162/zhang22x/zhang22x.pdf)
+
 ✔️[Contrastive UCB: Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning](https://proceedings.mlr.press/v162/qiu22c/qiu22c.pdf)
 
 :heavy_check_mark:[Boosting Contrastive Self-Supervised Learning With False Negative Cancellation](https://openaccess.thecvf.com/content/WACV2022/html/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.html)
