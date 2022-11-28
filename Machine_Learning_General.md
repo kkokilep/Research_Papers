@@ -5,6 +5,8 @@
 
 [A Unifying Review of Deep and Shallow Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9347460)
 
+[Selective Regression Under Fairness Criteria](https://arxiv.org/pdf/2110.15403.pdf)
+
 # 2020
 
 [A BRIEF REVIEW OF DOMAIN ADAPTATION](https://arxiv.org/pdf/2010.03978.pdf)
