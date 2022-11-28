@@ -13,6 +13,8 @@
 
 [A BRIEF REVIEW OF DOMAIN ADAPTATION](https://arxiv.org/pdf/2010.03978.pdf)
 
+[Prevalence of neural collapse during the terminal phase of deep learning training](https://www.pnas.org/doi/10.1073/pnas.2015509117)
+
 # 2018
 
 [Shallow-Deep Networks: Understanding and Mitigating Network Overthinking](https://arxiv.org/pdf/1810.07052.pdf)
