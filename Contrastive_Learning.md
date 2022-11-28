@@ -10,6 +10,7 @@
 
 ✔️[Contrastive UCB: Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning](https://proceedings.mlr.press/v162/qiu22c/qiu22c.pdf)
 
+✅[Contrastive Self-supervised Learning via Minimizing Distance between Cosine Similarities of Negative Pair](https://sslneurips22.github.io/paper_pdfs/paper_22.pdf)
 
 ✅[Local Pseudo-Attributes for Long-Tailed Recognition](https://sslneurips22.github.io/paper_pdfs/paper_6.pdf)
 
