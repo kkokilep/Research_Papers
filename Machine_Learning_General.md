@@ -7,6 +7,8 @@
 
 [Selective Regression Under Fairness Criteria](https://arxiv.org/pdf/2110.15403.pdf)
 
+[Consistent Estimators for Learning to Defer to an Expert](https://arxiv.org/pdf/2006.01862.pdf)
+
 # 2020
 
 [A BRIEF REVIEW OF DOMAIN ADAPTATION](https://arxiv.org/pdf/2010.03978.pdf)
