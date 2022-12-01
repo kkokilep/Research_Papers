@@ -1,9 +1,11 @@
-
+## Online Learning
 [Contrastive UCB](https://github.com/Baichenjia/Contrastive-UCB)
 
 [MNIST and Contextual Bandits](https://github.com/Ushk/MNist_ContextualBandit)
 
 [Study NeuralUCB and regret analysis for contextual bandit with neural decision](https://github.com/sauxpa/neural_exploration)
+
+## Contrastive Learning
 
 [Supervised Contrastive Learning](https://github.com/HobbitLong/SupContrast)
 
