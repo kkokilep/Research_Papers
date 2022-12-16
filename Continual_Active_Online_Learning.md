@@ -5,4 +5,4 @@
 
 ## 2009
 
-🍤:[Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660)
+🍤[Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660)
