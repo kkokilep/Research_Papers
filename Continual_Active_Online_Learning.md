@@ -11,6 +11,14 @@
 ## 2022
 ✔️[IALE: Imitating Active Learner Ensembles](https://www.jmlr.org/papers/volume23/21-0387/21-0387.pdf)
 
+🍤[Active Learning Helps Pretrained Models Learn the Intended Task](https://arxiv.org/pdf/2204.08491.pdf)
+
+❗[Active Learning Through a Covering Lens](https://arxiv.org/pdf/2205.11320.pdf)
+
+❗[Batch Multi-Fidelity Active Learning with Budget Constraints](https://arxiv.org/pdf/2210.12704.pdf)
+
+❗[Uplifting Bandits](https://arxiv.org/pdf/2206.04091.pdf)
+
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
 
@@ -19,6 +27,8 @@
 ✔️[A Machine-Learning Derived Huntington’s Disease Progression Model: Insights for Clinical Trial Design](https://movementdisorders.onlinelibrary.wiley.com/doi/epdf/10.1002/mds.28866?saml_referrer)
 
 ✔️[Utilizing machine learning to improve clinical trial design for acute respiratory distress syndrome](https://www.nature.com/articles/s41746-021-00505-5.pdf?pdf=button%20sticky)
+
+❗[Influence Selection for Active Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.pdf)
 
 ## 2020
 ✔️[Applications of continual learning machine learning in clinical practice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8259323/pdf/nihms-1701649.pdf)
@@ -32,6 +42,18 @@
 
 🍤[Sequential Patient Recruitment and Allocation for Adaptive Clinical Trials](http://proceedings.mlr.press/v89/atan19a/atan19a.pdf)
 
+## 2013
+❗[Building Bridges: Viewing Active Learning from the Multi-Armed Bandit Lens](https://arxiv.org/pdf/1309.6830.pdf)
+
+## 2014
+❗[Contextual Bandit for Active Learning: Active Thompson Sampling](https://hal.archives-ouvertes.fr/file/index/docid/1069802/filename/Contextual_Bandit_for_Active_Learning.pdf)
+
+## 2015
+🍤[Submodularity in Data Subset Selection and Active Learning](http://proceedings.mlr.press/v37/wei15.pdf)
+
 ## 2009
 
 🍤[Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660)
+
+## 2008
+❗[Active Learning in Multi-armed Bandits](https://link.springer.com/content/pdf/10.1007/978-3-540-87987-9_25.pdf?pdf=inline%20link)
