@@ -1,7 +1,11 @@
 # Papers related to sample selection problems in Continual, Active, Online Learning
 🍤: not that useful
+
 ☑️: useful but haven't in-depth read
+
 ✔️: useful and have in-depth read
+
+❗: need to read
 
 
 ## 2022
@@ -12,8 +16,17 @@
 
 ☑️[A survey on active learning and human-in-the-loop deep learning for medical image analysis](https://reader.elsevier.com/reader/sd/pii/S1361841521001080?token=5E5C50742330B14980080D21179312C099B1AF5321C756F2D84EDEBBC350A3016D002BA5C9B4EC208EBFDE9E8FF3E51B&originRegion=us-east-1&originCreation=20230105220440)
 
+✔️[A Machine-Learning Derived Huntington’s Disease Progression Model: Insights for Clinical Trial Design](https://movementdisorders.onlinelibrary.wiley.com/doi/epdf/10.1002/mds.28866?saml_referrer)
+
+✔️[Utilizing machine learning to improve clinical trial design for acute respiratory distress syndrome](https://www.nature.com/articles/s41746-021-00505-5.pdf?pdf=button%20sticky)
+
 ## 2020
 ✔️[Applications of continual learning machine learning in clinical practice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8259323/pdf/nihms-1701649.pdf)
+
+☑️[Contextual Constrained Learning for Dose-Finding Clinical Trials](https://arxiv.org/pdf/2001.02463.pdf)
+
+## 2019
+🍤[Artificial Intelligence for Clinical Trial Design](https://reader.elsevier.com/reader/sd/pii/S0165614719301300?token=3CFF290C949677F216AE1E4FF925FBA353EB35DC941B1493079926FA6B5B70CF5ACD411B845140EF529620CDD59A859B&originRegion=us-east-1&originCreation=20230105220850)
 
 ## 2009
 
