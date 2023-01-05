@@ -42,17 +42,22 @@
 
 🍤[Sequential Patient Recruitment and Allocation for Adaptive Clinical Trials](http://proceedings.mlr.press/v89/atan19a/atan19a.pdf)
 
-## 2013
-❗[Building Bridges: Viewing Active Learning from the Multi-Armed Bandit Lens](https://arxiv.org/pdf/1309.6830.pdf)
+## 2018
+❗[The power of ensembles for active learning in image classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579074)
 
-## 2014
-❗[Contextual Bandit for Active Learning: Active Thompson Sampling](https://hal.archives-ouvertes.fr/file/index/docid/1069802/filename/Contextual_Bandit_for_Active_Learning.pdf)
+## 2016
+❗[Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf)
 
 ## 2015
 🍤[Submodularity in Data Subset Selection and Active Learning](http://proceedings.mlr.press/v37/wei15.pdf)
 
-## 2009
+## 2014
+❗[Contextual Bandit for Active Learning: Active Thompson Sampling](https://hal.archives-ouvertes.fr/file/index/docid/1069802/filename/Contextual_Bandit_for_Active_Learning.pdf)
 
+## 2013
+❗[Building Bridges: Viewing Active Learning from the Multi-Armed Bandit Lens](https://arxiv.org/pdf/1309.6830.pdf)
+
+## 2009
 🍤[Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660)
 
 ## 2008
