@@ -1,5 +1,5 @@
 # Papers related to sample selection problems in Continual, Active, Online Learning
-🍤: not that useful
+🍤: not that useful / somewhat useful
 
 ☑️: useful but haven't in-depth read
 
@@ -25,8 +25,12 @@
 
 ☑️[Contextual Constrained Learning for Dose-Finding Clinical Trials](https://arxiv.org/pdf/2001.02463.pdf)
 
+🍤[Machine Learning for Clinical Trials in the Era of COVID-19](https://www.tandfonline.com/doi/epdf/10.1080/19466315.2020.1797867?needAccess=true&role=button)
+
 ## 2019
 🍤[Artificial Intelligence for Clinical Trial Design](https://reader.elsevier.com/reader/sd/pii/S0165614719301300?token=3CFF290C949677F216AE1E4FF925FBA353EB35DC941B1493079926FA6B5B70CF5ACD411B845140EF529620CDD59A859B&originRegion=us-east-1&originCreation=20230105220850)
+
+🍤[Sequential Patient Recruitment and Allocation for Adaptive Clinical Trials](http://proceedings.mlr.press/v89/atan19a/atan19a.pdf)
 
 ## 2009
 
