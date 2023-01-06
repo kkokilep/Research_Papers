@@ -44,6 +44,7 @@
 
 ## 2018
 ❗[The power of ensembles for active learning in image classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579074)
+❗[Continual Learning and Catastrophic Forgetting](https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf)
 
 ## 2016
 ❗[Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf)
