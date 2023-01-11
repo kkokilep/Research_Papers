@@ -1,7 +1,7 @@
 # Papers related to sample selection problems in Continual, Active, Online Learning
 🍤: not that useful / somewhat useful
 
-☑️: useful but haven't in-depth read
+☑️: useful; know basics
 
 ✔️: useful and have in-depth read
 
@@ -18,6 +18,8 @@
 ❗[Batch Multi-Fidelity Active Learning with Budget Constraints](https://arxiv.org/pdf/2210.12704.pdf)
 
 ❗[Uplifting Bandits](https://arxiv.org/pdf/2206.04091.pdf)
+
+☑️[DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS](https://arxiv.org/pdf/1906.03671.pdf)
 
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
