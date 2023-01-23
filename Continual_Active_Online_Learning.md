@@ -47,6 +47,7 @@
 
 ## 2018
 ❗[The power of ensembles for active learning in image classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579074)
+
 ❗[Continual Learning and Catastrophic Forgetting](https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf)
 
 ## 2016
@@ -66,3 +67,6 @@
 
 ## 2008
 ❗[Active Learning in Multi-armed Bandits](https://link.springer.com/content/pdf/10.1007/978-3-540-87987-9_25.pdf?pdf=inline%20link)
+
+## Other papers I have found relevant to my research
+[THE DETAILS MATTER: PREVENTING CLASS COLLAPSE IN SUPERVISED CONTRASTIVE LEARNING](https://openreview.net/pdf?id=alGr3g3L9Jo)
