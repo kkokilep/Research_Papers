@@ -23,6 +23,8 @@
 
 ❗[Multi-Label Active Learning-Based Machine Learning Model for Heart Disease Prediction](https://www.mdpi.com/1424-8220/22/3/1184)
 
+❗[Fair active learning](https://www.sciencedirect.com/science/article/pii/S0957417422004055)
+
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
 
