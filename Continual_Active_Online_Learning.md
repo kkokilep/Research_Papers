@@ -19,6 +19,7 @@
 
 ❗[Uplifting Bandits](https://arxiv.org/pdf/2206.04091.pdf)
 
+❗[How to measure uncertainty in uncertainty sampling for active learning](https://link.springer.com/article/10.1007/s10994-021-06003-9)
 
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
