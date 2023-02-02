@@ -37,6 +37,20 @@
 
 ❗[Active Learning Helps Pretrained Models Learn the Intended Task](https://download.arxiv.org/pdf/2204.08491v1.pdf)
 
+❗[Are all Frames Equal? Active Sparse Labeling for Video Action Detection](https://openreview.net/pdf?id=907ZdmPmmH_)
+
+❗[Active Learning of Classifiers with Label and Seed Queries](https://download.arxiv.org/pdf/2209.03996v1.pdf)
+
+❗[Retrospective Adversarial Replay for Continual Learning](https://openreview.net/pdf?id=XEoih0EwCwL)
+
+❗[Task-Free Continual Learning via Online Discrepancy Distance Learning](https://download.arxiv.org/pdf/2210.06579v1.pdf)
+
+❗[Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer](https://download.arxiv.org/pdf/2210.06579v1.pdf)
+
+❗[Exploring Example Influence in Continual Learning](https://download.arxiv.org/pdf/2209.12241v1.pdf)
+
+❗[Continual learning: a feature extraction formalization, an efficient algorithm, and fundamental obstructions](https://download.arxiv.org/pdf/2203.14383v1.pdf)
+
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
 
