@@ -52,6 +52,11 @@
 ❗[Continual learning: a feature extraction formalization, an efficient algorithm, and fundamental obstructions](https://download.arxiv.org/pdf/2203.14383v1.pdf)
 
 ❗[Repeated Augmented Rehearsal: A Simple but Strong Baseline for Online Continual Learning](https://arxiv.org/pdf/2209.13917.pdf)
+
+❗[Active Learning on a Budget: Opposite Strategies Suit High and Low Budgets](https://proceedings.mlr.press/v162/hacohen22a/hacohen22a.pdf)
+
+❗[SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals](https://arxiv.org/pdf/2004.09557.pdf)
+
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
 
