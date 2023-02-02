@@ -25,6 +25,18 @@
 
 ❗[Fair active learning](https://www.sciencedirect.com/science/article/pii/S0957417422004055)
 
+❗[Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation](https://download.arxiv.org/pdf/2202.06881v2.pdf)
+
+❗[Active Learning with Safety Constraints](https://par.nsf.gov/servlets/purl/10379044)
+
+❗[Active Learning with Neural Networks: Insights from Nonparametric Statistics](https://download.arxiv.org/pdf/2210.08367v1.pdf)
+
+❗[Active Learning for Multiple Target Models](https://openreview.net/pdf?id=-V1ITIKPH6)
+
+❗[Bayesian Active Learning with Fully Bayesian Gaussian Processes](https://download.arxiv.org/pdf/2205.10186v3.pdf)
+
+❗[Active Learning Helps Pretrained Models Learn the Intended Task](https://download.arxiv.org/pdf/2204.08491v1.pdf)
+
 ## 2021
 ☑️[A clinical deep learning framework for continually learning from cardiac signals across diseases, time, modalities, and institutions](https://www.nature.com/articles/s41467-021-24483-0.pdf)
 
