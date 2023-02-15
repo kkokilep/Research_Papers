@@ -4,6 +4,11 @@
 ✅ = Somewhat Useful
 🤷‍♂️ = Not Useful
 
+
+# 2023
+
+[ON THE INADEQUACY OF OPTIMIZING ALIGNMENT AND UNIFORMITY IN CONTRASTIVE LEARNING OF SENTENCE REPRESENTATIONS](https://openreview.net/pdf?id=MxvHVNukama)
+
 # 2022
 
 ✔️[Making Linear MDPs Practical via Contrastive Representation Learning](https://proceedings.mlr.press/v162/zhang22x/zhang22x.pdf)
