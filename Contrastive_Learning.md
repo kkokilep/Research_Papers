@@ -55,6 +55,9 @@
 
 # 2021
 
+
+[Understanding the Behaviour of Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Understanding_the_Behaviour_of_Contrastive_Loss_CVPR_2021_paper.pdf)
+
 ✔️[Learning with Spectral Contrastive Loss](https://proceedings.neurips.cc/paper/2021/file/27debb435021eb68b3965290b5e24c49-Paper.pdf)
 
 ✅[Utilizing Expert Features for Contrastive Learning of Time-Series Representations](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Parametric_Contrastive_Learning_ICCV_2021_paper.pdf)
